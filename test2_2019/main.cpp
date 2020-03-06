@@ -30,7 +30,7 @@ void matPrint(double* A, int n, int p){
 
 int main(int argc, char **argv)
 {
-	ifstream vMyFile("data.txt");
+	ifstream vMyFile("data2.txt");
 	string n_temp;
 	string x_temp;
 	string y_temp;
