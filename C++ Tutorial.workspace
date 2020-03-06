@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C++ Tutorial" Database="" Version="10.0.0">
+  <Project Name="Hello" Path="Hello/Hello.project" Active="No"/>
+  <Project Name="exercise1-3" Path="exercise1-3/exercise1-3.project" Active="No"/>
+  <Project Name="example2-1" Path="example2-1/example2-1.project" Active="No"/>
+  <Project Name="example2-5" Path="example2-5/example2-5.project" Active="No"/>
+  <Project Name="exercise3-1" Path="exercise3-1/exercise3-1.project" Active="No"/>
+  <Project Name="exercise3-2" Path="exercise3-2/exercise3-2.project" Active="No"/>
+  <Project Name="example4-1" Path="example4-1/example4-1.project" Active="No"/>
+  <Project Name="example4-2" Path="example4-2/example4-2.project" Active="No"/>
+  <Project Name="example4-3" Path="example4-3/example4-3.project" Active="No"/>
+  <Project Name="example4-4" Path="example4-4/example4-4.project" Active="No"/>
+  <Project Name="exercise4-1" Path="exercise4-1/exercise4-1.project" Active="No"/>
+  <Project Name="exercise4-3" Path="exercise4-2/exercise4-2.project" Active="No"/>
+  <Project Name="exercise4-3" Path="exercise4-3/exercise4-3.project" Active="No"/>
+  <Project Name="exercise4-4" Path="exercise4-4/exercise4-4.project" Active="No"/>
+  <Project Name="exercise5-1" Path="exercise5-1/exercise5-1.project" Active="No"/>
+  <Project Name="exercise5-2" Path="exercise5-2/exercise5-2.project" Active="No"/>
+  <Project Name="exercise5-3" Path="exercise5-3/exercise5-3.project" Active="No"/>
+  <Project Name="exercise5-4" Path="exercise5-4/exercise5-4.project" Active="No"/>
+  <Project Name="exercise5-5" Path="exercise5-5/exercise5-5.project" Active="No"/>
+  <Project Name="exercise5-6" Path="exercise5-6/exercise5-6.project" Active="No"/>
+  <Project Name="exercise5-7" Path="exercise5-7/exercise5-7.project" Active="No"/>
+  <Project Name="exercise5-8" Path="exercise5-8/exercise5-8.project" Active="No"/>
+  <Project Name="exercise6-1" Path="exercise6-1/exercise6-1.project" Active="No"/>
+  <Project Name="example6-8" Path="example6-8/example6-8.project" Active="No"/>
+  <Project Name="past_year" Path="past_year/past_year.project" Active="No"/>
+  <Project Name="exercise6-4" Path="exercise6-4/exercise6-4.project" Active="No"/>
+  <Project Name="exercise5-8-Simpson" Path="exercise5-8-Simpson/exercise5-8-Simpson.project" Active="No"/>
+  <Project Name="exercise6-5" Path="exercise6-5/exercise6-5.project" Active="No"/>
+  <Project Name="exercise6-3" Path="exercise6-3/exercise6-3.project" Active="No"/>
+  <Project Name="test1" Path="test1/test1.project" Active="No"/>
+  <Project Name="exercise7-1" Path="exercise7-1/exercise7-1.project" Active="No"/>
+  <Project Name="exercise7-2" Path="exercise7-2/exercise7-2.project" Active="No"/>
+  <Project Name="test2_2019" Path="test2_2019/test2_2019.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Hello" ConfigName="Debug"/>
+      <Project Name="exercise1-3" ConfigName="Debug"/>
+      <Project Name="example2-1" ConfigName="Debug"/>
+      <Project Name="example2-5" ConfigName="Debug"/>
+      <Project Name="exercise3-1" ConfigName="Debug"/>
+      <Project Name="exercise3-2" ConfigName="Debug"/>
+      <Project Name="example4-1" ConfigName="Debug"/>
+      <Project Name="example4-2" ConfigName="Debug"/>
+      <Project Name="example4-3" ConfigName="Debug"/>
+      <Project Name="example4-4" ConfigName="Debug"/>
+      <Project Name="exercise4-1" ConfigName="Debug"/>
+      <Project Name="exercise4-3" ConfigName="Debug"/>
+      <Project Name="exercise4-3" ConfigName="Debug"/>
+      <Project Name="exercise4-4" ConfigName="Debug"/>
+      <Project Name="exercise5-1" ConfigName="Debug"/>
+      <Project Name="exercise5-2" ConfigName="Debug"/>
+      <Project Name="exercise5-3" ConfigName="Debug"/>
+      <Project Name="exercise5-4" ConfigName="Debug"/>
+      <Project Name="exercise5-5" ConfigName="Debug"/>
+      <Project Name="exercise5-6" ConfigName="Debug"/>
+      <Project Name="exercise5-7" ConfigName="Debug"/>
+      <Project Name="exercise5-8" ConfigName="Debug"/>
+      <Project Name="exercise6-1" ConfigName="Debug"/>
+      <Project Name="example6-8" ConfigName="Debug"/>
+      <Project Name="past_year" ConfigName="Debug"/>
+      <Project Name="exercise6-4" ConfigName="Debug"/>
+      <Project Name="exercise5-8-Simpson" ConfigName="Debug"/>
+      <Project Name="exercise6-5" ConfigName="Debug"/>
+      <Project Name="exercise6-3" ConfigName="Debug"/>
+      <Project Name="test1" ConfigName="Debug"/>
+      <Project Name="exercise7-1" ConfigName="Debug"/>
+      <Project Name="exercise7-2" ConfigName="Debug"/>
+      <Project Name="test2_2019" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Hello" ConfigName="Release"/>
+      <Project Name="exercise1-3" ConfigName="Release"/>
+      <Project Name="example2-1" ConfigName="Release"/>
+      <Project Name="example2-5" ConfigName="Release"/>
+      <Project Name="exercise3-1" ConfigName="Release"/>
+      <Project Name="exercise3-2" ConfigName="Release"/>
+      <Project Name="example4-1" ConfigName="Release"/>
+      <Project Name="example4-2" ConfigName="Release"/>
+      <Project Name="example4-3" ConfigName="Release"/>
+      <Project Name="example4-4" ConfigName="Release"/>
+      <Project Name="exercise4-1" ConfigName="Release"/>
+      <Project Name="exercise4-3" ConfigName="Release"/>
+      <Project Name="exercise4-3" ConfigName="Release"/>
+      <Project Name="exercise4-4" ConfigName="Release"/>
+      <Project Name="exercise5-1" ConfigName="Release"/>
+      <Project Name="exercise5-2" ConfigName="Release"/>
+      <Project Name="exercise5-3" ConfigName="Release"/>
+      <Project Name="exercise5-4" ConfigName="Release"/>
+      <Project Name="exercise5-5" ConfigName="Release"/>
+      <Project Name="exercise5-6" ConfigName="Release"/>
+      <Project Name="exercise5-7" ConfigName="Release"/>
+      <Project Name="exercise5-8" ConfigName="Release"/>
+      <Project Name="exercise6-1" ConfigName="Release"/>
+      <Project Name="example6-8" ConfigName="Release"/>
+      <Project Name="past_year" ConfigName="Release"/>
+      <Project Name="exercise6-4" ConfigName="Release"/>
+      <Project Name="exercise5-8-Simpson" ConfigName="Release"/>
+      <Project Name="exercise6-5" ConfigName="Release"/>
+      <Project Name="exercise6-3" ConfigName="Release"/>
+      <Project Name="test1" ConfigName="Release"/>
+      <Project Name="exercise7-1" ConfigName="Release"/>
+      <Project Name="exercise7-2" ConfigName="Release"/>
+      <Project Name="test2_2019" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

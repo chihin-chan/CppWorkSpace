@@ -1,0 +1,12 @@
+### Start Fri Feb  7 14:17:50 2020
+# /apps/dev-studio/12.6/bin/../bin/er_archive -n -O /home/cc219/C++ Tutorial/test1/test.1.er/er_archive.log /home/cc219/C++ Tutorial/test1/test.1.er
+Copying `/home/cc219/C++ Tutorial/test1/a.out'  to `/home/cc219/C++ Tutorial/test1/test.1.er/archives/a.out_3p49xFlgXk9'
+Copying `/lib/x86_64-linux-gnu/librt-2.28.so'  to `/home/cc219/C++ Tutorial/test1/test.1.er/archives/librt-2.28.so_XLwlkF_Wwof'
+Copying `/lib/x86_64-linux-gnu/libpthread-2.28.so'  to `/home/cc219/C++ Tutorial/test1/test.1.er/archives/libpthread-2.28.so_XLwlkF_Wwof'
+Copying `/lib/x86_64-linux-gnu/libdl-2.28.so'  to `/home/cc219/C++ Tutorial/test1/test.1.er/archives/libdl-2.28.so_XLwlkF_Wwof'
+Copying `/lib/x86_64-linux-gnu/libc-2.28.so'  to `/home/cc219/C++ Tutorial/test1/test.1.er/archives/libc-2.28.so_XLwlkF_Wwof'
+Copying `/lib/x86_64-linux-gnu/libgcc_s.so.1'  to `/home/cc219/C++ Tutorial/test1/test.1.er/archives/libgcc_s.so.1_XLwlkF_Wwof'
+Copying `/lib/x86_64-linux-gnu/libm-2.28.so'  to `/home/cc219/C++ Tutorial/test1/test.1.er/archives/libm-2.28.so_XLwlkF_Wwof'
+Copying `/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25'  to `/home/cc219/C++ Tutorial/test1/test.1.er/archives/libstdc++.so.6.0.25_dnWuQRcLhw9'
+Copying `/apps/dev-studio/12.6/lib/analyzer/amd64/runtime/libcollector.so'  to `/home/cc219/C++ Tutorial/test1/test.1.er/archives/libcollector.so_kN_xj2QRtH5'
+Copying `/lib/x86_64-linux-gnu/ld-2.28.so'  to `/home/cc219/C++ Tutorial/test1/test.1.er/archives/ld-2.28.so_XLwlkF_Wwof'
